@@ -1,0 +1,9 @@
+nav{
+  background-color: #C5FAD5;
+}
+
+/*Moves navbar links to the right of the page
+  overrides the bootstrap navbar default position*/
+#collapsibleNavbar{
+  flex-grow: 0;
+}
